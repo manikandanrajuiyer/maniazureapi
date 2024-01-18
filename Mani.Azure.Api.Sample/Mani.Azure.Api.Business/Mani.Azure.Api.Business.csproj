@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mani.Azure.Api.Data\Mani.Azure.Api.Data.csproj" />
+    <ProjectReference Include="..\Mani.Azure.Api.Models\Mani.Azure.Api.Models.csproj" />
+  </ItemGroup>
+
+</Project>
